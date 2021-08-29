@@ -1,2 +1,2 @@
 # ADA-2021
-Assignments and Labs done in Algorithm Design and Analysis
+Assignments and labs done in Algorithm Design and Analysis course at IIITD
